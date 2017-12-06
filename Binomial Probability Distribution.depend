@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507559454 source:l:\c\binomial probability distribution\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
